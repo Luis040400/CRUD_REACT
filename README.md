@@ -1,6 +1,5 @@
 # CRUD REACT
-
-This template should help get you started developing with Vue 3 in Vite.
+CRUD CON REACT 
 
 
 ## Project Setup
